@@ -4,4 +4,10 @@
 A (3,6,8); B (2,1,-7), -> 15.84
 A (7,-5, 0); B (1,-1,9) -> 11.53*/
 
-
+int [] a;
+int[] b;
+Console.WriteLine("Введите координаты первой точки в 3D пространстве (3 цифры) через зяпятую/пробел/точку");
+a = Console.ReadLine()!.Split(' ', ',', '.').Where(x=>int.TryParse(x, out _)).Select(x=>int.Parse(x)).ToArray();
+Console.WriteLine("Введите координаты второй точки в 3D пространстве (3 цифры) через зяпятую/пробел/точку");
+b = Console.ReadLine()!.Split(' ', ',', '.').Where(x=>int.TryParse(x, out _)).Select(x=>int.Parse(x)).ToArray();
+Console.Write($"Расстояние между точками = {Math.Sqrt(((a[0]-b[0])*(a[0]-b[0]))+((a[1]-b[1])*(a[1]-b[1]))+((a[2]-b[2])*(a[2]-b[2])))}");
