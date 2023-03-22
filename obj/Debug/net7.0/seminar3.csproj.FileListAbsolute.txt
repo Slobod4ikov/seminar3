@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.AssemblyInfo.cs
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/seminar3/seminar3/bin/Debug/net7.0/seminar3
+/Users/oleg/Desktop/seminar3/seminar3/bin/Debug/net7.0/seminar3.deps.json
+/Users/oleg/Desktop/seminar3/seminar3/bin/Debug/net7.0/seminar3.runtimeconfig.json
+/Users/oleg/Desktop/seminar3/seminar3/bin/Debug/net7.0/seminar3.dll
+/Users/oleg/Desktop/seminar3/seminar3/bin/Debug/net7.0/seminar3.pdb
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.dll
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/refint/seminar3.dll
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.pdb
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/seminar3.genruntimeconfig.cache
+/Users/oleg/Desktop/seminar3/seminar3/obj/Debug/net7.0/ref/seminar3.dll
