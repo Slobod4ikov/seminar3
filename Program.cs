@@ -4,3 +4,10 @@
 12821 -> да
 23432 -> да*/
 
+int a;
+Console.WriteLine("Введите пятизначное число");
+int.TryParse(Console.ReadLine(), out a);
+if(a/10000==a%10 && (a/1000)%10==(a/10)%10){
+    Console.WriteLine("Это полиндром");
+}
+else{Console.WriteLine("Это не полиндром");}
